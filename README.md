@@ -24,7 +24,7 @@ Bot will send last 5 messages for each number in each request. So use number and
     ```
 3. **Installing Numpy Pandas and other requirements**:
     ```bash
-    chmod +x install.sh && ./install.sh
+    chmod +x setup.sh && ./setup.sh
     ```
 <br>
 
